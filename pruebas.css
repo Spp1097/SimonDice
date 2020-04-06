@@ -1,0 +1,59 @@
+#azul{
+    
+    border: blue 1px solid;
+    background-color: blue;
+    height: 100px;
+    width: 100px;
+    float: left;
+}
+#verde{
+    
+    border: green 1px solid;
+    background-color: green;
+    height: 100px;
+    width: 100px;
+    float: left;
+   
+}
+#rojo{
+    
+    border: red 1px solid;
+    background-color: red;
+    height: 100px;
+    width: 100px;
+    float: left;
+  
+}
+#negro{
+    background-color: black;
+    border:black 1px solid;
+    height: 100px;
+    width: 100px;
+    float: left;
+    
+}
+
+.gameboard{
+    display: block;
+    width: 205px;
+    height: 205px;
+    border-radius: 70%;
+    margin: 0 auto;
+    overflow: hidden;
+ 
+
+    
+}
+
+.main{
+    display: flex;
+    align-items: center;
+    height: 500px;
+}
+
+
+
+
+
+
+
